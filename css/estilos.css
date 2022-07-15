@@ -1,0 +1,62 @@
+/*--Header--*/
+
+
+.navbar{
+background-color:#ff9524;
+
+}
+
+
+
+
+.jumbotron{
+	background: #C0FFAE;
+	padding: 10px;
+}
+
+.jumbotron .titulo-blog{
+	font-size: 50px;
+}
+
+.jumbotron .parrafo{
+	font-size: 20px;
+}
+
+/*--POST--*/
+.main{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.post{
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom:1px solid #999;
+}
+
+.post .post-title a{
+	color: #333;
+}
+
+.post .thumb{
+	margin-right: 15px;
+	width: 40%;
+}
+
+.post .thumb img{
+	width: 100%;
+}
+
+.post .contenedor-botones{
+	width: 100%;
+}
+
+@media screen and (max-width: 768px){
+	.post .thumb{
+		width: 100%;
+		margin-bottom: 20px;
+		margin-right: 0;
+	}
+}
+
+

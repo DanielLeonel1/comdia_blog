@@ -1,0 +1,1 @@
+<?php require 'files/V_crear_platillo.php'; ?>
